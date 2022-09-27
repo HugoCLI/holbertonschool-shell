@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ' ' '\n' 
+cat list | sort -u 
